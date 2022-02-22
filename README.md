@@ -1,1 +1,1 @@
-hello world 
+refactored divs into semantic elements 
